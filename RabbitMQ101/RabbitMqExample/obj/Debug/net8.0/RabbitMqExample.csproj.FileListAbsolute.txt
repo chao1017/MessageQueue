@@ -1,0 +1,17 @@
+D:\test\RabbitMQ101\RabbitMqExample\bin\Debug\net8.0\RabbitMqExample.exe
+D:\test\RabbitMQ101\RabbitMqExample\bin\Debug\net8.0\RabbitMqExample.deps.json
+D:\test\RabbitMQ101\RabbitMqExample\bin\Debug\net8.0\RabbitMqExample.runtimeconfig.json
+D:\test\RabbitMQ101\RabbitMqExample\bin\Debug\net8.0\RabbitMqExample.dll
+D:\test\RabbitMQ101\RabbitMqExample\bin\Debug\net8.0\RabbitMqExample.pdb
+D:\test\RabbitMQ101\RabbitMqExample\bin\Debug\net8.0\RabbitMQ.Client.dll
+D:\test\RabbitMQ101\RabbitMqExample\obj\Debug\net8.0\RabbitMqExample.csproj.AssemblyReference.cache
+D:\test\RabbitMQ101\RabbitMqExample\obj\Debug\net8.0\RabbitMqExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\test\RabbitMQ101\RabbitMqExample\obj\Debug\net8.0\RabbitMqExample.AssemblyInfoInputs.cache
+D:\test\RabbitMQ101\RabbitMqExample\obj\Debug\net8.0\RabbitMqExample.AssemblyInfo.cs
+D:\test\RabbitMQ101\RabbitMqExample\obj\Debug\net8.0\RabbitMqExample.csproj.CoreCompileInputs.cache
+D:\test\RabbitMQ101\RabbitMqExample\obj\Debug\net8.0\RabbitMq.B8C1640A.Up2Date
+D:\test\RabbitMQ101\RabbitMqExample\obj\Debug\net8.0\RabbitMqExample.dll
+D:\test\RabbitMQ101\RabbitMqExample\obj\Debug\net8.0\refint\RabbitMqExample.dll
+D:\test\RabbitMQ101\RabbitMqExample\obj\Debug\net8.0\RabbitMqExample.pdb
+D:\test\RabbitMQ101\RabbitMqExample\obj\Debug\net8.0\RabbitMqExample.genruntimeconfig.cache
+D:\test\RabbitMQ101\RabbitMqExample\obj\Debug\net8.0\ref\RabbitMqExample.dll
